@@ -262,7 +262,7 @@ class IconTile extends StatelessWidget {
             color: backColor, borderRadius: BorderRadius.circular(15)),
         child: Image.asset(
           imgAssetPath,
-          width: 20,
+          width: 18,
         ),
       ),
     );
